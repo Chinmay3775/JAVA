@@ -14,7 +14,7 @@ public class anonymous_object{
         // obj=new A();
         // obj.show(); 
 
-        new A(); // this is an anonymous object which has no name to access 
+        new A().show(); // this is an anonymous object which has no name to access 
     }
     
     

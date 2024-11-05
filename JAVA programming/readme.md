@@ -10,6 +10,7 @@ This repository contains a collection of Java programs covering essential concep
 4. [Advanced OOP Concepts](#advanced-oop-concepts)
 5. [Interfaces and Abstract Classes](#interfaces-and-abstract-classes)
 6. [Enums and Enhanced Switch](#enums-and-enhanced-switch)
+7. [More Enums](#more-enums)
 
 ---
 
@@ -47,6 +48,9 @@ This repository contains a collection of Java programs covering essential concep
 - **Enum.java** - Shows how to use enums for defining a fixed set of constants.
 - **Final.java** - Demonstrates the use of the `final` keyword to create constants, prevent inheritance, and prevent method overriding.
 - **format_presentation.java** - Provides examples of how to format output in Java using `String.format` and other methods.
+  
+## More Enums
+- **More_Enum.java** - This file demonstrates advanced usage of enums, showcasing how they can be utilized for more complex scenarios, including methods within enums and their integration with other Java features.
 
 ---
 

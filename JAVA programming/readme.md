@@ -1,4 +1,3 @@
-
 # Java Programming Practice Repository
 
 This repository contains a collection of Java programs covering essential concepts in Java programming. Each file focuses on specific Java topics, ranging from basic syntax to advanced features like inheritance, interfaces, and dynamic method dispatch. This structure is intended to help learners progress through Java concepts step-by-step.
